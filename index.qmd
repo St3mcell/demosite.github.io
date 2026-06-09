@@ -1,11 +1,20 @@
 ---
-title: "DemoSite"
+title: "Julián Andrés Pérez Mejía"
+about:
+  template: jolla
+  image: images/monguitos.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/St3mcell
 ---
 
-This is a Quarto website.
+*Graduate student in Biology*
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+[Pontificia Universidad Javeriana](https://www.javeriana.edu.co/inicio?gad_source=1&gad_campaignid=23544517129&gbraid=0AAAAAon8LWyVa6fYRos66zUji5In9Lx_2&gclid=CjwKCAjw857RBhAgEiwAI-1yKKKAGVxfQo-Semr_ghWDhnhpOzjMbqbCeQDuQLozYCd2TiZFYC9uWRoCQBwQAvD_BwE)
 
-```{r}
-1 + 1
-```
+## Education
+
+Biology, Pontificia Universidad Javeriana \| 2026
+
+Recocha, Bogota´s MonguiSchool \| In process

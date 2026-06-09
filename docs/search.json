@@ -2,15 +2,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "DemoSite",
+    "title": "Julián Andrés Pérez Mejía",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Graduate student in Biology\nPontificia Universidad Javeriana"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Julián Andrés Pérez Mejía",
+    "section": "Education",
+    "text": "Education\nBiology, Pontificia Universidad Javeriana | 2026\nRecocha, Bogota´s MonguiSchool | In process"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Modern Metagenomics\nPPI Network\nPL Network\nTortihamburguesas 101"
+  },
+  {
+    "objectID": "courses.html#current-courses",
+    "href": "courses.html#current-courses",
+    "title": "Courses",
+    "section": "",
+    "text": "Modern Metagenomics\nPPI Network\nPL Network\nTortihamburguesas 101"
   }
 ]
