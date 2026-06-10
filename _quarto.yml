@@ -5,6 +5,8 @@ project:
 website:
   title: "Julián"
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
         text: Home
@@ -17,6 +19,7 @@ format:
       - brand
     css: styles.css
     toc: false
+
 
 
 
