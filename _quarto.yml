@@ -3,14 +3,31 @@ project:
   output-dir: docs
 
 website:
+  favicon: images/monguitos.png
   title: "Julián"
   navbar:
     background: primary
     search: true
     left:
       - href: index.qmd
-        text: Home
+        text: " "
+        icon: house-door-fill
       - courses.qmd
+      - sidebar:projects
+    right: 
+      - href: "https://www.youtube.com/watch?v=ilrtGNQLOPY"
+        text: "Carlitos"
+        icon: camera-reels-fill
+      
+  sidebar:
+      - id: projects
+        tittle: "Projects"
+        style: "docked"
+        background: light
+        collapse-level: 2
+        contents: 
+            - projects/project1.qmd
+            - projects/project2.qmd
 
 format:
   html:
